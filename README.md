@@ -9,8 +9,8 @@ The dataset contains information about 4,803 movies, including details such as b
 ### Libraries Used
 * Pandas: For data manipulation and analysis.
 * NumPy: For numerical computations and data type conversions.
-* Seaborn: For data visualization, particularly for generating attractive and informative statistical graphics.
-* Matplotlib: For creating static, interactive, and animated visualizations in Python.
+* Seaborn: For data visualisation, particularly for generating attractive and informative statistical graphics.
+* Matplotlib: For creating static, interactive, and animated visualisations in Python.
 * Datetime: For handling and manipulating date and time data.
 * JSON & ast: For parsing JSON-formatted data.
 
@@ -25,8 +25,8 @@ The dataset contains information about 4,803 movies, including details such as b
 
 2. Exploratory Data Analysis:
 
-* Top 5 Most Expensive Movies: Identified and visualized the movies with the highest budgets.
-* Top 5 Cheapest Movies: Analyzed the movies with the lowest budgets.
+* Top 5 Most Expensive Movies: Identified and visualised the movies with the highest budgets.
+* Top 5 Cheapest Movies: Analysed the movies with the lowest budgets.
 * Budget vs. Revenue Analysis: Investigated the relationship between a movie’s budget and its revenue.
 * Top 5 Most Profitable Movies: Calculated and visualized the movies with the highest profits.
 * Most Popular Movies: Sorted and visualised movies based on their popularity score.
