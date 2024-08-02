@@ -60,7 +60,7 @@ The dataset contains information about 4,803 movies, including details such as b
 
 --------------------------------------------------------------------------------------------------
 
-#### My citings:
+#### References:
 https://github.com/theBar10/EDA-Movie-Set/blob/master/Movie%20Data%20Set%20Exploration.ipynb
 
 https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
