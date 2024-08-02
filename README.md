@@ -58,4 +58,15 @@ The dataset contains information about 4,803 movies, including details such as b
 
 * Open the notebook in Jupyter or any other compatible environment and run the cells sequentially.
 
-### Thank you, Farinaaz :)
+--------------------------------------------------------------------------------------------------
+
+#### My citings:
+https://github.com/theBar10/EDA-Movie-Set/blob/master/Movie%20Data%20Set%20Exploration.ipynb
+
+https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
+
+https://online.hbs.edu/blog/post/data-visualization-techniques
+
+https://saturncloud.io/blog/python-pandas-converting-object-to-string-type-in-dataframes/#:~:text=To%20convert%20column%20'B'%20from,the%20data%20to%20string%20type
+
+#### Thank you, Farinaaz :)
